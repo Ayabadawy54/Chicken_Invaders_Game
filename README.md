@@ -50,7 +50,7 @@ space --> Shooting💥
 
 
 
-## 🎪 Contributers:
+## 🎪 Contributors:
 
 - [Aya Badawy](https://github.com/Ayabadawy54)
 - [Mai Farahat](https://github.com/Mai-farahat)
