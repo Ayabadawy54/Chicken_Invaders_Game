@@ -7,9 +7,6 @@
  </div>
 
 
-  ## 🎥 Gameplay
- <div align="center"> <img src="D:\pycharm projects\Chicken_Invaders_Final\Game_Play" />
- </div>
  
  
   ## 📌 Game Story
