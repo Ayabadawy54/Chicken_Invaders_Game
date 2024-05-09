@@ -15,12 +15,23 @@
 
 
 
+
+
+## 🎠 Game Description
+ 
+In Level 1, chickens leisurely waddle along the x-axis, but beware, in Level 2 they speed up and approach from the sides, challenging your reflexes. Brace yourself for Level 3, where chickens swarm in circular patterns, testing your agility and strategic prowess.
+
+
+
+ 
+
 ## 🎯 Python libraries
 1) OpenGL
 2) Pygame
 3) Math
 
  
+
  
 ## 🎮 Game controls
 
@@ -35,6 +46,7 @@ D --> Go Right➡️
 A --> Go Left ⬅️
 
 space --> Shooting💥
+
 
 
 
