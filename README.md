@@ -28,7 +28,7 @@ In Level 1, chickens leisurely waddle along the x-axis, but beware, in Level 2 t
 ## 🎯 Python libraries
 1) OpenGL
 2) Pygame
-3) Math
+3) Numpy
 
  
 
